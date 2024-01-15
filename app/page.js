@@ -15,6 +15,7 @@ export default function Home() {
         earum repudiandae ut officiis deleniti maiores quisquam eligendi quos harum! Facere amet recusandae in id labore eos natus error eaque, obcaecati aut tempore, dolorem rerum tempora maiores molestiae, eligendi voluptate dolorum veritatis quos molestias dolores blanditiis optio. Dolore veritatis ea ad porro, ipsam temporibus facilis necessitatibus atque odio quidem amet quae quam recusandae explicabo eum? Numquam consequatur dolorem dolores a, corporis in pariatur provident 
         autem reprehenderit eligendi vero optio cumque, cupiditate rem! Aliquid veritatis repudiandae officiis labore atque quam rem, non laborum 
         velit minus excepturi architecto assumenda incidunt ipsa, necessitatibus saepe consequatur eum asperiores at eligendi?</p></div>
+        <button className="bg-green-500 mt-10 text-white text-2xl p-3 rounded-md font-bold shadow-[0_5px_#136832] active:translate-y-1 active:shadow-none">Click Me</button>
     </div>
   )
 }
